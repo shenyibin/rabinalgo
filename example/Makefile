@@ -1,4 +1,3 @@
-
 CC	 = g++
 LDCC	 = $(CC)
 LIBS	 = -L../src 
